@@ -69,6 +69,7 @@ footer {
 	width: 100%;
 }
 footer p {
+	font-family: Barlow;
 	font-size: 12px;
 	font-weight: 500;
 	font-style: normal;
